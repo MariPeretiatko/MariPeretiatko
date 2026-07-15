@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Mariia - Software Developer from Germany 🇩🇪</h2>
+<h2 align="left">Hi 👋! I'm Mariia - Software Developer based in Germany 🇩🇪</h2>
 
 <div>
   
@@ -8,7 +8,7 @@
 
 <p align="left">
 📍 Germany<br><br>
-👩‍💻 Student at 42 Wolfsburg – C/C++ & low-level programming<br>
+👩‍💻 Software Developer at 42 Wolfsburg – C/C++ & low-level programming<br>
 🎮 Passionate about creating games, gameplay mechanics and interactive worlds<br>
 ✨ Interests – Game Development, Graphics & Web<br>
 <br>
