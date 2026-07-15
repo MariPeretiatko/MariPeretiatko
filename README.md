@@ -2,16 +2,15 @@
 
 <div>
   
-<img align="left" width="350" height="auto" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg" />
+<img align="left" width="350" height="auto" src="https://app.leonardo.ai/generation/image/cozy-digital-illustration-young-girl-sitting-d0b46416-7ef2-4073-b2e3-a3f38407eece?utm_source=share_asset&utm_medium=copylink&utm_content=image" />
 
 ### About me and interests
 
 <p align="left">
 📍 Wolfsburg, Germany<br><br>
 👩‍💻 Student at 42 Wolfsburg – C/C++ & low-level programming<br>
-⚙️ Interests – Systems, Networking, Graphics & Game Development<br>
+✨ Interests – Web, Graphics & Game Development<br>
 🎮 Building interactive applications and understanding software internals<br>
-🇩🇪 German learner – currently B1
 </p>
 
 <br />
@@ -120,24 +119,8 @@ Multiplayer Tetris platform with real-time gameplay, authentication and matchmak
 
 <br>
 
-🐚 **Minishell**  
-Unix shell implementation with processes, pipes and signals.  
-`C • POSIX • Unix`
-
-<br>
-
-🌐 **IRC Server**  
-TCP/IP client-server communication system.  
-`C++ • Networking • Sockets`
-
-<br>
-
-🧵 **Philosophers**  
-Multithreading and synchronization project.  
-`C • Threads • Mutexes`
 
 
-<br />
 
 <div align="left">
 
@@ -155,5 +138,3 @@ Multithreading and synchronization project.
 
 
 <br />
-
-![Snake animation](https://raw.githubusercontent.com/mariia-peretiatko/mariia-peretiatko/output/github-contribution-grid-snake-dark.svg)
