@@ -2,15 +2,16 @@
 
 <div>
   
-<img align="left" width="350" height="auto" src="https://app.leonardo.ai/generation/image/cozy-digital-illustration-young-girl-sitting-d0b46416-7ef2-4073-b2e3-a3f38407eece?utm_source=share_asset&utm_medium=copylink&utm_content=image" />
+<img align="right" width="350" height="auto" src="https://github.com/MariPeretiatko/MariPeretiatko/blob/main/img.jpg?raw=true" />
 
 ### About me and interests
 
 <p align="left">
-📍 Wolfsburg, Germany<br><br>
+📍 Germany<br><br>
 👩‍💻 Student at 42 Wolfsburg – C/C++ & low-level programming<br>
-✨ Interests – Web, Graphics & Game Development<br>
-🎮 Building interactive applications and understanding software internals<br>
+🎮 Passionate about creating games, gameplay mechanics and interactive worlds<br>
+✨ Interests – Game Development, Graphics & Web<br>
+<br>
 </p>
 
 <br />
@@ -68,9 +69,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react"/>
 <img width="20"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="node"/>
-<img width="20"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html"/>
 <img width="20"/>
 
@@ -79,15 +77,6 @@
 <br />
 <br />
 
-<!-- Database -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql"/>
-<img width="20"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql"/>
-
-<br />
-<br />
 
 <!-- Game -->
 
