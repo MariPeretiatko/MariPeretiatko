@@ -1,153 +1,100 @@
-## Hi there 👋
+# 👋 Hi, I'm Mariia
 
-<!--
-**MariPeretiatko/MariPeretiatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer based in Germany 🇩🇪
 
-Here are some ideas to get you started:
+I build software with a focus on **systems programming, networking, graphics and game development**.  
+I enjoy understanding how things work under the hood and creating reliable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Mariia 👋
-
-Software Developer based in Germany 🇩🇪
-
-I enjoy building software that combines low-level programming, problem solving and interactive applications.
-
-My main interests are systems programming, networking, graphics programming and game development. I enjoy understanding how software works under the hood and turning complex ideas into reliable applications.
-
-Currently looking for my first opportunity as a Junior Software Developer, Frontend Developer or Game Developer.
+🚀 Currently looking for opportunities as a **Junior Software Developer / Frontend Developer / Game Developer**.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- C
-- C++
-- C#
-- JavaScript
-- TypeScript
+### ⚙️ Systems & Backend
+- 🐧 Linux / Bash
+- 🔌 TCP/IP & Socket Programming
+- 🧵 Multithreading
+- 🏗 POSIX APIs
 
-### Systems
+### 🌐 Web Development
+- ⚛️ React
+- 🟢 Node.js / Express
+- 🎨 HTML / CSS / SCSS
+- 🗄 Prisma ORM
 
-- Linux
-- Bash
-- POSIX APIs
-- Multithreading
-- TCP/IP
-- Socket Programming
-
-### Web
-
-- React
-- Node.js
-- Express
-- HTML5
-- CSS3
-- SCSS
-- Prisma ORM
-
-### Databases
-
+### 🗃 Databases & Tools
 - PostgreSQL
 - MySQL
-- Microsoft SQL Server
 - SQLite
-
-### Tools
-
-- Git
 - Docker
+- Git
 - CMake
-- Makefile
 - Valgrind
 
-### Game Development
-
+### 🎮 Game Development
 - Unity
 - Unreal Engine
 - Blender
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ## 🎮 Tetra
+Real-time multiplayer Tetris platform with authentication, matchmaking and leaderboards.
 
-Full-stack multiplayer Tetris platform featuring real-time gameplay, authentication, matchmaking, leaderboards and production-style infrastructure.
-
-**Tech**
-
-React • TypeScript • Node.js • Express • Socket.IO • PostgreSQL • Prisma • Docker
+**Stack:** React • TypeScript • Node.js • Socket.IO • PostgreSQL • Docker
 
 ---
 
 ## 🕹 cub3D
+3D raycasting game inspired by classic shooters.
 
-Raycasting-based 3D game inspired by classic shooters.
-
-Implemented rendering, textures, collision detection, minimap, doors, animated sprites and mouse controls.
-
-**Tech**
-
-C • Graphics Programming • Algorithms • MiniLibX
+**Stack:** C • Graphics Programming • Algorithms • MiniLibX
 
 ---
 
 ## 🐚 Minishell
+Unix shell implementation with processes, pipes and signal handling.
 
-Unix shell implementation demonstrating POSIX APIs, process management, signals, pipes and file handling.
-
-**Tech**
-
-C • Unix • POSIX • Bash
+**Stack:** C • POSIX • Unix
 
 ---
 
 ## 🌐 IRC Server
+Client-server application using TCP/IP communication.
 
-Client-server application implementing IRC protocol communication using TCP/IP sockets.
-
-**Tech**
-
-C++ • TCP/IP • Networking • Socket Programming
+**Stack:** C++ • Networking • Sockets
 
 ---
 
-## 🍝 Philosophers
+## 🧵 Philosophers
+Concurrency project focused on threads and synchronization.
 
-Multithreading project focused on synchronization, concurrency and resource management.
-
-**Tech**
-
-C • Threads • Mutexes
+**Stack:** C • Threads • Mutexes
 
 ---
 
-# Currently Learning
+# 📚 Currently Learning
 
-- Unity Game Development
-- Unreal Engine
-- German (working towards B1)
+🎮 Unity & Unreal Engine  
+🇩🇪 German (B1 goal)
 
 ---
 
-# Let's Connect
+# 🤝 Let's Connect
 
-📍 Wolfsburg, Germany
+📍 Wolfsburg, Germany 🇩🇪
 
-💼 LinkedIn
+💼 LinkedIn  
+🔗 linkedin.com/in/mariia-peretiatko-4534b4243
 
-www.linkedin.com/in/mariia-peretiatko-4534b4243
-
-📧
-
-mariaperetatko7@gmail.com
+📧 mariaperetatko7@gmail.com
