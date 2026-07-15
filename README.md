@@ -1,100 +1,159 @@
-# 👋 Hi, I'm Mariia
+<h2 align="left">Hi 👋! I'm Mariia - Software Developer from Germany 🇩🇪</h2>
 
-💻 Software Developer based in Germany 🇩🇪
+<div>
+  
+<img align="left" width="350" height="auto" src="https://i.postimg.cc/jqX5FdqV/freepik-upload-90621.jpg" />
 
-I build software with a focus on **systems programming, networking, graphics and game development**.  
-I enjoy understanding how things work under the hood and creating reliable applications.
+### About me and interests
 
-🚀 Currently looking for opportunities as a **Junior Software Developer / Frontend Developer / Game Developer**.
+<p align="left">
+📍 Wolfsburg, Germany<br><br>
+👩‍💻 Student at 42 Wolfsburg – C/C++ & low-level programming<br>
+⚙️ Interests – Systems, Networking, Graphics & Game Development<br>
+🎮 Building interactive applications and understanding software internals<br>
+🇩🇪 German learner – currently B1
+</p>
+
+<br />
+
+</div>
+
+<br clear="both" />
+
+<div>
+
+### 🛠 My Tech Stack
+
+<div align="left">
+
+<!-- Languages -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript"/>
+
+<br />
+<br />
+
+<!-- Systems -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="cmake"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git"/>
+
+<br />
+<br />
+
+<!-- Web -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="node"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css"/>
+
+<br />
+<br />
+
+<!-- Database -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql"/>
+
+<br />
+<br />
+
+<!-- Game -->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender"/>
+
+</div>
+
+</div>
+
+
+<br clear="both" />
 
 ---
 
-## 🛠 Tech Stack
+### 🚀 Featured Projects
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+🎮 **Tetra**  
+Multiplayer Tetris platform with real-time gameplay, authentication and matchmaking.  
+`React • TypeScript • Node.js • Socket.IO • PostgreSQL • Docker`
 
-### ⚙️ Systems & Backend
-- 🐧 Linux / Bash
-- 🔌 TCP/IP & Socket Programming
-- 🧵 Multithreading
-- 🏗 POSIX APIs
+<br>
 
-### 🌐 Web Development
-- ⚛️ React
-- 🟢 Node.js / Express
-- 🎨 HTML / CSS / SCSS
-- 🗄 Prisma ORM
+🕹 **cub3D**  
+3D raycasting game with textures, collisions and custom rendering.  
+`C • Graphics • Algorithms • MiniLibX`
 
-### 🗃 Databases & Tools
-- PostgreSQL
-- MySQL
-- SQLite
-- Docker
-- Git
-- CMake
-- Valgrind
+<br>
 
-### 🎮 Game Development
-- Unity
-- Unreal Engine
-- Blender
+🐚 **Minishell**  
+Unix shell implementation with processes, pipes and signals.  
+`C • POSIX • Unix`
 
----
+<br>
 
-# 🚀 Featured Projects
+🌐 **IRC Server**  
+TCP/IP client-server communication system.  
+`C++ • Networking • Sockets`
 
-## 🎮 Tetra
-Real-time multiplayer Tetris platform with authentication, matchmaking and leaderboards.
+<br>
 
-**Stack:** React • TypeScript • Node.js • Socket.IO • PostgreSQL • Docker
+🧵 **Philosophers**  
+Multithreading and synchronization project.  
+`C • Threads • Mutexes`
 
----
 
-## 🕹 cub3D
-3D raycasting game inspired by classic shooters.
+<br />
 
-**Stack:** C • Graphics Programming • Algorithms • MiniLibX
+<div align="left">
 
----
+### 🤝 Connect with me
 
-## 🐚 Minishell
-Unix shell implementation with processes, pipes and signal handling.
+<a href="mailto:mariaperetatko7@gmail.com">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+</a>
 
-**Stack:** C • POSIX • Unix
+<a href="https://www.linkedin.com/in/mariia-peretiatko-4534b4243">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+</a>
 
----
+</div>
 
-## 🌐 IRC Server
-Client-server application using TCP/IP communication.
 
-**Stack:** C++ • Networking • Sockets
+<br />
 
----
-
-## 🧵 Philosophers
-Concurrency project focused on threads and synchronization.
-
-**Stack:** C • Threads • Mutexes
-
----
-
-# 📚 Currently Learning
-
-🎮 Unity & Unreal Engine  
-🇩🇪 German (B1 goal)
-
----
-
-# 🤝 Let's Connect
-
-📍 Wolfsburg, Germany 🇩🇪
-
-💼 LinkedIn  
-🔗 linkedin.com/in/mariia-peretiatko-4534b4243
-
-📧 mariaperetatko7@gmail.com
+![Snake animation](https://raw.githubusercontent.com/mariia-peretiatko/mariia-peretiatko/output/github-contribution-grid-snake-dark.svg)
